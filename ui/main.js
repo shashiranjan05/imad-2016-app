@@ -21,5 +21,6 @@ button.onclick=function(){
     
     //render the variable in the span
     request.open('GET','http://http://shashiranjan05.imad.hasura-app.io/',true);
+    request.send(null);
     
 };
