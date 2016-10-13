@@ -14,7 +14,7 @@ button.onclick=function(){
             }
         
         }
-    }
+    };
     //capture response and variable
     
     
